@@ -4,12 +4,9 @@
 
 # 使い方
 
-* 実行環境のテスト
+* 実行環境のテスト<br>[Raspberry Pi High-Precision AD/DA Expansion Boardのwiki](https://www.waveshare.com/wiki/High-Precision_AD/DA_Board)を参考にして、サンプルプログラムの"ads1256_test.c"が実行可能か確認してください。
 
- [Raspberry Pi High-Precision AD/DA Expansion Boardのwiki](https://www.waveshare.com/wiki/High-Precision_AD/DA_Board)を参考にして、サンプルプログラムの"ads1256_test.c"が実行可能か確認してください。
-
-* 本プログラムの配置
-
+* 本プログラムの配置  
 "ads1256_test.c"と同じフォルダに"ads_yogo.c"とdataフォルダを配置し，サンプルと同様に実行してください。
 
 # プログラムの内容
